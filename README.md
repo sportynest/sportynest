@@ -9,7 +9,7 @@ Third-year Computer Science student at York University with a passion for applyi
 *   Other: SQL, Git, Agile Methodologies
 
 **Featured Projects**
-*   **Sentiment Analysis of Movie Reviews**  (https://github.com/sportynest/sentiment-analysis-model) - NLP project classifying sentiment using SVMs, achieving 91.2% accuracy.
+*   **Sentiment Analysis of Movie Reviews**  (https://github.com/sportynest/sentiment-analysis-model) - NLP project classifying sentiment using SVMs, achieving 89.9% accuracy.
 
 
 **Contact Me**
