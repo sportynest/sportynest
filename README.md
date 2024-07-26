@@ -1,7 +1,7 @@
-**Olalekan Soyewo | ML Engineer & Software Developer**
+**Olalekan Soyewo | ML & Software Engineer**
 Toronto, Canada
 
-Third-year Computer Science student at York University with a passion for applying machine learning to create impactful solutions. Currently exploring large language models and their potential to transform various industries. 
+Fourth-year Computer Science student at York University with a passion for applying machine learning to create impactful solutions. Currently exploring large language models and their potential to transform various industries. 
 
 **Key Skills**
 *   Languages: Python, Java, JavaScript
