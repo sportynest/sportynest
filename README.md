@@ -10,7 +10,7 @@ Fourth-year Computer Science student at York University with a passion for apply
 
 **Featured Projects**
 *   **Sentiment Analysis of Movie Reviews**  (https://github.com/sportynest/sentiment-analysis-model) - NLP project classifying sentiment using SVMs, achieving 89.9% accuracy.
-
+*   StudyBuddy AI - https://chat.cognora.ca
 
 **Contact Me**
 Let's connect!  Find me on LinkedIn (https://www.linkedin.com/in/lekan-soyewo/) or reach out via email at paulsoyewo@gmail.com.
