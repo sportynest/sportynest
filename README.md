@@ -9,8 +9,10 @@ Fourth-year Computer Science student at York University with a passion for apply
 *   Other: SQL, Git, Agile Methodologies
 
 **Featured Projects**
+*   **StudyBuddy AI** - https://chat.cognora.ca
+*   **Multi-LLM API Toolkit** (https://github.com/cognora/multi-llm-api-toolkit) - Developed a unified API interface for multiple LLMs with multi-modal capabilities.
 *   **Sentiment Analysis of Movie Reviews**  (https://github.com/sportynest/sentiment-analysis-model) - NLP project classifying sentiment using SVMs, achieving 89.9% accuracy.
-*   StudyBuddy AI - https://chat.cognora.ca
+
 
 **Contact Me**
 Let's connect!  Find me on LinkedIn (https://www.linkedin.com/in/lekan-soyewo/) or reach out via email at paulsoyewo@gmail.com.
