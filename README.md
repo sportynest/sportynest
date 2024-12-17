@@ -15,4 +15,4 @@ Fourth-year Computer Science student at York University with a passion for apply
 
 
 **Contact Me**
-*  paulsoyewo@gmail.com.
+*  mailto:paulsoyewo@gmail.com
