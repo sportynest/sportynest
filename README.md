@@ -15,4 +15,4 @@ Fourth-year Computer Science student at York University with a passion for apply
 
 
 **Contact Me**
-Let's connect!  Find me on LinkedIn (https://www.linkedin.com/in/lekan-soyewo/) or reach out via email at paulsoyewo@gmail.com.
+*  paulsoyewo@gmail.com.
